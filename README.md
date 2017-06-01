@@ -1,2 +1,2 @@
-# waffles
+# waffle
 enhance your community 
