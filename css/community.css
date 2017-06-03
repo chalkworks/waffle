@@ -1,0 +1,17 @@
+.community {
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+.profile {
+	width: 150px;
+	height: 150px;
+	margin: auto;
+	border-radius: 5px;
+	background-color: #ffcc66;
+    transition: box-shadow .1s;
+}
+
+.profile:hover {
+  box-shadow: 0 0 20px rgba(33,33,33,.2); 
+}
