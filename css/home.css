@@ -3,6 +3,8 @@ h1 {
 }
 
 img {
+  height: 75px;
+  width: 75px;
   vertical-align: middle;
 }
 
@@ -25,8 +27,18 @@ p {
     margin-top: 30px;
   }
 
+  img {
+    height: 50px;
+    width: 50px;
+  }
+
+  h1 {
+    font-size: 40px;
+  }
+
   p {
-    max-width: 350px;
+    font-size: 20px;
+    max-width: 300px;
   }
 
   #video {
