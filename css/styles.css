@@ -1,0 +1,36 @@
+body {
+  font-family: "Inconsolata", monospace;
+  color: #606060;
+}
+
+h1 {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 700;
+}
+
+button {
+  background: #11e2bd;
+  border-radius: 5px;
+  font-family: "Quicksand", sans-serif;
+  font-size: 20px;
+  margin-top: 2rem;
+}
+
+button:hover {
+  background: #0ef0c8;
+}
+
+.nav {
+  position: absolute;
+  width: 80%;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+.nav-item {
+  font-family: "Quicksand", sans-serif;
+  color: #606060;
+  font-size: 20px;
+  text-decoration: none;
+}

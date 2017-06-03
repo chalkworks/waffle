@@ -1,0 +1,15 @@
+h1 {
+  font-size: 60px;
+}
+
+p {
+  font-family: "Quicksand", monospace;
+  font-weight: 400;
+  font-size: 30px;
+  max-width: 400px;
+  margin-top: 0;
+}
+
+#video {
+  border-radius: 10px;
+}
