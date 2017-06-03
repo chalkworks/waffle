@@ -1,8 +1,13 @@
-h1 {
+a {
+  color: #606060;
+  text-decoration: none;
+}
+
+a h1 {
   font-size: 60px;
 }
 
-img {
+a img {
   height: 75px;
   width: 75px;
   vertical-align: middle;
@@ -31,12 +36,12 @@ p {
     top: 1%;
   }
 
-  img {
+  a img {
     height: 50px;
     width: 50px;
   }
 
-  h1 {
+  a h1 {
     font-size: 40px;
   }
 
