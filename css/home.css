@@ -24,7 +24,11 @@ p {
 
 @media screen and (max-width:400px) {
   .container {
-    margin-top: 30px;
+    margin-top: 10%;
+  }
+
+  .nav {
+    top: 1%;
   }
 
   img {
