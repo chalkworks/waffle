@@ -1,12 +1,12 @@
 .community {
-	max-width: 960px;
+	max-width: 600px;
 	margin: 0 auto;
 }
 
 .profile {
 	width: 150px;
 	height: 150px;
-	margin: 0 auto;
+	margin: auto;
 	border-radius: 5px;
 	background-color: #ffcc66;
     transition: box-shadow .1s;
