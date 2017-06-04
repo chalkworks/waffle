@@ -1,6 +1,6 @@
 .container {
 	margin-top: 10%;
-	min-width: 800px;
+	max-width: 600px;
 }
 
 .nav {
@@ -8,20 +8,19 @@
 }
 
 .community .row {
-	margin-bottom: 50px;
+	margin-bottom: 25px;
 }
 
 .profile {
 	width: 175px;
 	height: 175px;
-	margin: auto;
 	border-radius: 5px;
 	background-color: #ffcc66;
-	transition: box-shadow .1s;
+	transition: box-shadow .15s;
 }
 
 .profile:hover {
-	box-shadow: 0 0 20px rgba(33,33,33,.2);
+	box-shadow: 0px 10px 40px rgba(10, 10, 10, .15);
 }
 
 @media screen and (max-width:400px) {
