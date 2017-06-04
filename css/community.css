@@ -1,11 +1,19 @@
-.community {
-	max-width: 600px;
-	margin: 0 auto;
+.container {
+	margin-top: 10%;
+	min-width: 800px;
+}
+
+.nav {
+	top: 5%;
+}
+
+.community .row {
+	margin-bottom: 50px;
 }
 
 .profile {
-	width: 150px;
-	height: 150px;
+	width: 175px;
+	height: 175px;
 	margin: auto;
 	border-radius: 5px;
 	background-color: #ffcc66;
@@ -14,4 +22,10 @@
 
 .profile:hover {
 	box-shadow: 0 0 20px rgba(33,33,33,.2);
+}
+
+@media screen and (max-width:400px) {
+  .nav {
+    top: 1%;
+  }
 }

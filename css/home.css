@@ -8,8 +8,6 @@ a h1 {
 }
 
 a img {
-  height: 75px;
-  width: 75px;
   vertical-align: middle;
 }
 
@@ -21,6 +19,10 @@ p {
   margin-top: 0;
 }
 
+.nav {
+  justify-content: flex-end;
+}
+
 #video {
   width: 510px;
   height: 265px;
@@ -30,15 +32,6 @@ p {
 @media screen and (max-width:400px) {
   .container {
     margin-top: 10%;
-  }
-
-  .nav {
-    top: 1%;
-  }
-
-  a img {
-    height: 50px;
-    width: 50px;
   }
 
   a h1 {

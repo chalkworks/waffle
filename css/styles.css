@@ -26,6 +26,7 @@ button:hover {
   left: 0;
   right: 0;
   margin: auto;
+  justify-content: space-around;
 }
 
 .nav-item {
@@ -33,4 +34,20 @@ button:hover {
   color: #606060;
   font-size: 20px;
   text-decoration: none;
+}
+
+#logo {
+  height: 75px;
+  width: 75px;
+}
+
+@media screen and (max-width:400px) {
+  .nav {
+    top: 1%;
+  }
+
+  #logo {
+    height: 50px;
+    width: 50px;
+  }
 }
