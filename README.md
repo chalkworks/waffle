@@ -1,2 +1,2 @@
 # waffle
-enhance your community 
+the simplest way to showcase your community 
