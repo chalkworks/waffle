@@ -9,7 +9,7 @@ h1 {
 }
 
 button {
-  background: #19c8a3;
+  background: #17b695;
   border-radius: 5px;
   font-family: "Quicksand", sans-serif;
   font-size: 20px;
@@ -17,7 +17,7 @@ button {
 }
 
 button:hover {
-  background: #17b695;
+  background: #19c8a3;
 }
 
 .nav {
